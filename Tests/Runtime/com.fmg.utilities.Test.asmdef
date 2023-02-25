@@ -1,0 +1,16 @@
+{
+    "name": "com.fmg.utilities.Test",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c2eaf5f5ea748a747a896cabb8780f1f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
